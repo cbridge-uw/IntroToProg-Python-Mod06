@@ -4,4 +4,4 @@
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Assignemtn06 Repo Main Page](https://github.com/cbridge-uw/IntroToProg-Python-Mod06)
+[Assignment06 Repo Main Page](https://github.com/cbridge-uw/IntroToProg-Python-Mod06)
